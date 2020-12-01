@@ -1,10 +1,8 @@
 Git is a version control system.
 Git is free software.
 222
-<<<<<<< Updated upstream
 666
-=======
 333
 444
 555
->>>>>>> Stashed changes
+
